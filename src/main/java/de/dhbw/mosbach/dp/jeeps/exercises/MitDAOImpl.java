@@ -1,4 +1,4 @@
-package de.dhbw.mosbach.dp.jeeps;
+package de.dhbw.mosbach.dp.jeeps.exercises;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -7,6 +7,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.LinkedList;
 import java.util.List;
+
+import de.dhbw.mosbach.dp.jeeps.MitDAO;
+import de.dhbw.mosbach.dp.jeeps.Mitarbeiter;
 
 public class MitDAOImpl implements MitDAO {
 

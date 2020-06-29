@@ -1,6 +1,9 @@
-package de.dhbw.mosbach.dp.jeeps;
+package de.dhbw.mosbach.dp.jeeps.exercises;
 
 import java.util.List;
+
+import de.dhbw.mosbach.dp.jeeps.MitDAO;
+import de.dhbw.mosbach.dp.jeeps.Mitarbeiter;
 
 public class TestMitDao {
 

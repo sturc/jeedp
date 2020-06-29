@@ -1,4 +1,7 @@
-package de.dhbw.mosbach.dp.jeeps;
+package de.dhbw.mosbach.dp.jeeps.exercises;
+
+import de.dhbw.mosbach.dp.jeeps.MitarbeiterDTO;
+import de.dhbw.mosbach.dp.jeeps.MitarbeiterService;
 
 public class EJBClient {
 
